@@ -1,5 +1,12 @@
 # DiffTactile: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation
 
+<p align="center">
+  <img src="docs/box.gif" width="200" />
+  <img src="docs/pbd.gif" width="200" />
+  <img src="docs/repose.gif" width="200" />
+  <img src="docs/surface.gif" width="200" />
+</p>
+
 This package provides a tactile simulator with differential physics for contact-rich manipulation tasks . It models soft tactile sensors, objects with various material properties, and contact between sensors and objects.
 For more information, please refer to the [project webpage](https://difftactile.github.io/) or [corresponding paper](https://openreview.net/forum?id=eJHnSg783t).
 
